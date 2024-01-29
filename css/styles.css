@@ -127,7 +127,7 @@ header.sticky {
     position: fixed;
     right: 15px;
     top: 10px;
-    color: #ba34db;
+    color: #F76900;
     font-size: 1.5em;
     z-index: 20;
     padding: 0 7px;
@@ -144,7 +144,7 @@ header.sticky {
     padding-right: 15px;
     padding-top: 10px;
     cursor: pointer;
-    color: #9e34db
+    color: #F76900
 }
 
 #mobile-menu-close span {
